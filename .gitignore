@@ -1,0 +1,5 @@
+fuentes/
+*.log
+*.ai
+*.avi
+node_modules

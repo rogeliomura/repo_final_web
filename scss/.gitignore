@@ -1,0 +1,7 @@
+node_modules/
+fuentes/
+*.ai
+*.psd
+*.log
+*.avi
+*.mp4

@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto:wght@100;400&display=swap');
+
+/* reset */
+{
+padding: 0;
+margin: 0;
+}
+a{
+	text-decoration: none;
+}
+header{
+	background-color: rgba(227,71,73,255);
+}
+header p{
+	background-color: rgba(227,71,73,255);
+}
+body{
+	font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+    background-color: black;
+}
+nav ul li{
+	font-size: 2rem;
+}
+nav{
+	background-color: rgba(227,71,73,255);
+}
+a:hover{
+	color: black !important;
+}
+h1{
+	color: rgba(227,71,73,255);
+	margin: 10px;
+}
+a img{
+	border: none;
+	width: 20%;
+}
+a img:hover{
+	border: solid 10px black;
+}
+p{
+	color: white;
+	max-resolution: 20px;
+	text-decoration-line: none;
+	padding: 30px;
+	font-family: 'Roboto', sans-serif;
+ 	font-size: 1.3rem;
+	line-height: 1.4rem;
+}
+.card{
+	justify-content: center;
+	align-items: center;
+	padding: 40px;
+	border: none;
+	height: fit-content;
+	margin: 20px;
+	background-color: black;
+}
+.card text-center{
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+.card-text{
+	margin:  20px auto;	
+	color: white;
+	background-color: black;
+}
+.card-title{
+	color: white;
+	justify-content: center;
+}
+.card-img-top{
+	height: 450px;
+}
+.btn{
+	color: white;
+	background-color: rgba(227,71,73,255);
+	border-color: white;
+}
+.btn: hover{
+	border: solid 5px black;
+}
+.card a btn{
+	align-items: center;
+}
+h1,h2,h3{
+	text-decoration: none;
+	font-family: 'Oswald', sans-serif;
+	margin: 20px;
+}
+h2{
+	color: rgba(227,71,73,255);
+	margin: 20px;
+}
+H3{
+	color: white;
+}
+h5{
+	font-size: 1.5rem;
+	margin: 20px;
+	color: white;
+}
+footer img{
+	width: 4%;
+	margin: 5%;
+	align-items: center;
+}
+footer img:hover{
+	border: solid 5px rgba(227,71,73,255);
+}
+footer{
+	padding: 5px;
+	background-color: rgba(227,71,73,255);
+	text-align: center;
+}
+.main__index{
+	margin: 10px;
+}
+.banner h1{
+	font-size: 3rem;
+	margin: 20px;
+}
+.banner img{
+	width: 100%;
+}
+.container-fluid{
+	background-color: none;
+	text-decoration: none;
+	text-align: center;
+}
+.headerAnimation{
+	justify-content: center;
+}
+
+/*Nav bar*/
+.navbar{
+	background-color: rgba(227,71,73,255);
+}
+.navbar-brand{
+	color: white;
+	padding: 20px;
+}
+.bg-primary{
+	background-color: white;
+}
+.nav-link{
+	color: white;
+	font-size: 1.3rem;
+	padding: auto;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.carousel-item{
+	justify-items: center;
+	padding: 20px;
+	align-items: center;
+	height: 550px;
+}
+
+.lista-recetas{
+	color: white;
+	margin: 20px;
+	font-size: 1.2rem;
+}
+.recetas{
+	font-family: 'Roboto', sans-serif;
+	margin: 20px;
+	line-height: 1.8rem
+}
+.container{
+	padding: 25px;
+}
+.container h1{
+	text-align: center;
+	padding: 20px;
+	color: white;
+}
+#productos{
+	justify-content: center;
+}
+iframe:hover{
+	border: solid 10px black;
+	width: 100%;
+}
+.mapa{
+	margin: 50px;
+}
+.mb-3{
+	width: 50%;
+	margin: 50px;
+	color: white;
+	font-size: 2rem;
+	font-family: 'Roboto', sans-serif;
+	align-content: center;
+}
+.contacto h1,h2{
+	text-align: center;
+}
+.bottomconvo{
+    padding: 25px;
+    font-size: 20px;
+}
+.boton{
+	color: white;
+}
+.correo{
+	background-color: rgba(227,71,73,255);
+	text-align: center;
+	text-decoration: none !important;
+	font-size: 1rem;
+}
+.correo ul{
+	color: white;
+}
+.button btn btn-dark{
+	align-items: flex-end;
+	padding: 20px;
+}
